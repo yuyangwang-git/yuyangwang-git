@@ -28,9 +28,4 @@ Here are some ideas to get you started:
             align="left" 
             src="https://github-readme-stats.vercel.app/api?username=yuyangwang-git&count_private=true&show_icons=true&theme=solarized-light&hide_border=true&hide=issues"/>
     </a>
-    <a href="https://github.com/yuyangwang-git" align="right">
-        <img 
-            align="left" 
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuyangwang-git&count_private=true&show_icons=true&theme=solarized-light&layout=compact&hide_border=true"/>
-    </a>
 </div>
