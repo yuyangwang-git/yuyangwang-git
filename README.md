@@ -22,10 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm a beginner in the field of microfluidics.
 -->
 
-<div style="display: flex; flex-direction: row;">
-    <a href="https://github.com/yuyangwang-git">
-        <img 
-            align="left" 
-            src="https://github-readme-stats.vercel.app/api?username=yuyangwang-git&count_private=true&show_icons=true&theme=solarized-light&hide_border=true&hide=issues"/>
-    </a>
-</div>
+![Metrics](/github-metrics.svg)
